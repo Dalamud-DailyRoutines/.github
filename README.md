@@ -39,3 +39,17 @@ Crowdin: https://zh.crowdin.com/project/dalamud-dailyroutines
 
 ### 邀请 / Invite Links
 Discord: https://discord.gg/MDvv8Ejntw
+
+### Unban
+目前国服卫月已屏蔽本插件，如需使用请自行安装Unban
+#### 单品
+[UnbanPluginsCN](https://github.com/NightmareXIV/UnbanPluginsCN)
+#### 卫月插件
+##### [MyPluginsArentCheat](https://github.com/Nukoooo/MyPluginsArentCheat)
+```
+https://kirisamevanilla.github.io/ffxiv/dalamudrepo.json
+```
+##### DontBanMyPlugins
+```
+https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json
+```
