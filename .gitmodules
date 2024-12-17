@@ -1,9 +1,3 @@
-[submodule "OmenTools"]
-	path = OmenTools
-	url = https://github.com/AtmoOmen/OmenTools.git
-[submodule "ClickLib"]
-	path = ClickLib
-	url = https://github.com/AtmoOmen/ClickLib.git
-[submodule "EdgeTTS"]
-	path = EdgeTTS
-	url = https://github.com/AtmoOmen/EdgeTTS.git
+[submodule "DailyRoutines.ModuleTemplate"]
+	path = DailyRoutines.ModuleTemplate
+	url = https://github.com/AtmoOmen/DailyRoutines.ModuleTemplate.git
