@@ -42,4 +42,4 @@ https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster.json
 Crowdin: https://zh.crowdin.com/project/dalamud-dailyroutines
 
 ### 邀请 / Invite Links
-Discord: https://discord.gg/MDvv8Ejntw
+Discord: https://discord.gg/dailyroutines
