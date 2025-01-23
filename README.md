@@ -1,4 +1,4 @@
-# ![](https://raw.githubusercontent.com/AtmoOmen/StaticAssets/main/DailyRoutines/image/icon.png "Daily Routines")Daily Routines
+# Daily Routines
 
 ### ℹ️ 基本信息 / Info
 Daily Routines 是基于 Dalamud 的 最终幻想 14 游戏插件, 致力于提供一系列能切实提高游戏质量和体验的自动化与易用性改动模块。
@@ -7,7 +7,7 @@ Daily Routines 是基于 Dalamud 的 最终幻想 14 游戏插件, 致力于提�
 
 为扼制 6.X 版本频发的倒卖行为, 插件从 7.0 开始对部分模块采取在线验证模式。
 
-目前国服卫月已屏蔽本插件, 如需在国服使用请自行安装Unban
+目前国服卫月已屏蔽本插件, 如需在国服使用请自行安装 Unban。
 
 Daily Routines is a Final Fantasy 14 game plugin based on Dalamud, dedicated to providing a series of automated and easy-to-use modules that actually improve the quality and experience of the game.
 
