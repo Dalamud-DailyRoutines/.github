@@ -19,4 +19,4 @@ https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json
 
 
 
-[![image](https://discordapp.com/api/guilds/1258981591124938762/embed.png?style=banner2)](https://discord.gg/dailyroutines)
+[![image](https://discordapp.com/api/guilds/1258981591124938762/embed.png?style=banner2)](https://discord.gg/MDvv8Ejntw)
